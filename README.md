@@ -1,5 +1,7 @@
 # codebase-sig-extractor
 
+![Terminal Demo](./demo.gif)
+
 > **TS/JS Signature Skeletonizer:** Extract class, interface, type, and function signatures while stripping implementation details to fit your codebase into LLM prompt contexts.
 
 A zero-dependency TypeScript parser that removes function and method bodies, reducing token size by 80% while retaining full structural context for AI agents.
